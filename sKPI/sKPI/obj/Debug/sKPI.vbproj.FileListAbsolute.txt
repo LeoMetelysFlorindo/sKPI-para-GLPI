@@ -1,0 +1,40 @@
+C:\Users\mflorindo\Documents\Visual Studio 2010\Projects\sKPI\sKPI\bin\sKPI.dll
+C:\Users\mflorindo\Documents\Visual Studio 2010\Projects\sKPI\sKPI\bin\sKPI.pdb
+C:\Users\mflorindo\Documents\Visual Studio 2010\Projects\sKPI\sKPI\bin\sKPI.xml
+C:\Users\mflorindo\Documents\Visual Studio 2010\Projects\sKPI\sKPI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mflorindo\Documents\Visual Studio 2010\Projects\sKPI\sKPI\obj\Debug\sKPI.Resources.resources
+C:\Users\mflorindo\Documents\Visual Studio 2010\Projects\sKPI\sKPI\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\mflorindo\Documents\Visual Studio 2010\Projects\sKPI\sKPI\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\mflorindo\Documents\Visual Studio 2010\Projects\sKPI\sKPI\obj\Debug\sKPI.dll
+C:\Users\mflorindo\Documents\Visual Studio 2010\Projects\sKPI\sKPI\obj\Debug\sKPI.xml
+C:\Users\mflorindo\Documents\Visual Studio 2010\Projects\sKPI\sKPI\obj\Debug\sKPI.pdb
+C:\Fonts\sKPI\sKPI\obj\Debug\sKPI.Resources.resources
+C:\Fonts\sKPI\sKPI\obj\Debug\sKPI.vbproj.GenerateResource.Cache
+C:\Fonts\sKPI\sKPI\obj\Debug\sKPI.dll
+C:\Fonts\sKPI\sKPI\obj\Debug\sKPI.xml
+C:\Fonts\sKPI\sKPI\obj\Debug\sKPI.pdb
+C:\Fonts\sKPI\sKPI\bin\sKPI.dll.config
+C:\Fonts\sKPI\sKPI\bin\sKPI.dll
+C:\Fonts\sKPI\sKPI\bin\sKPI.pdb
+C:\Fonts\sKPI\sKPI\bin\sKPI.xml
+C:\Fonts\sKPI\sKPI\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Fonts\sKPI\sKPI\bin\CrystalDecisions.ReportSource.dll
+C:\Fonts\sKPI\sKPI\bin\CrystalDecisions.Shared.dll
+C:\Fonts\sKPI\sKPI\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Fonts\sKPI\sKPI\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Fonts\sKPI\sKPI\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Fonts\sKPI\sKPI\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Fonts\sKPI\sKPI\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Fonts\sKPI\sKPI\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Fonts\sKPI\sKPI\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Fonts\sKPI\sKPI\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Fonts\sKPI\sKPI\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Fonts\sKPI\sKPI\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Fonts\sKPI\sKPI\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Fonts\sKPI\sKPI\bin\MySql.Data.dll
+C:\Fonts\sKPI\sKPI\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Fonts\sKPI\sKPI\bin\stdole.dll
+C:\Fonts\sKPI\sKPI\obj\Debug\sKPI.vbprojResolveAssemblyReference.cache
+C:\Fonts\sKPI\sKPI\bin\MySql.Fabric.Plugin.dll
+C:\Fonts\sKPI\sKPI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Fonts\sKPI\sKPI\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll

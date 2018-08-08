@@ -1,0 +1,89 @@
+﻿body
+{              
+
+background-color: white; /* cor fundo da página*/
+font-size: 12pt; /*tamanho da fonte*/
+color: black; /*cor da fonte*/
+font-family: 'Times New Roman';
+    height: 564px;
+}
+
+#topo
+
+{
+
+border-right: #000000 1px dashed; /*borda direita*/
+border-top: #000000 1px dashed; /*borda topo*/
+border-left: #000000 1px dashed; /*borda esquerda*/
+border-bottom: #000000 1px dashed;/*borda embaixo*/
+width: 1500px;/*largura*/
+height: 100px;/*tamanho*/  
+}
+
+#esquerdo
+
+{
+
+border-right: #000000 1px dashed; /*borda direita*/
+border-top: #000000 1px dashed; /*borda topo*/
+border-left: #000000 1px dashed; /*borda esquerda*/
+border-bottom: #000000 1px dashed; /*borda embaixo*/
+
+width: 150px; /*largura*/
+
+height: 100px;/*altura*/
+
+position: absolute; /* so ele nessa posição*/
+
+top: 140px; /*altura para o topo*/
+
+}
+
+
+
+#centro
+
+{  
+
+border-right: #000000 1px dashed; /*borda direita*/            
+
+border-top: #000000 1px dashed; /*borda topo*/
+
+border-left: #000000 1px dashed; /*borda esquerda*/ 
+
+border-bottom: #000000 1px dashed; /*borda embaixo*/         
+
+width: 495px; /*largura*/
+
+height: 100px; /*altura*/         
+
+position: absolute; /* so ele nessa posição*/
+
+left: 177px; /*distância do lado esquerdo da página*/
+
+top: 140px;/*altura para o topo da página*/                          
+}
+
+
+
+#direito
+
+{
+
+border-right: #000000 1px dashed;/*borda direita*/
+
+border-top: #000000 1px dashed;/*borda topo*/
+
+border-left: #000000 1px dashed;/*borda esquerda*/
+
+border-bottom: #000000 1px dashed;/*borda embaixo*/
+width: 120px; /*largura*/
+
+height: 100px;/*altura*/
+
+position: absolute; /* so ele nessa posição*/
+
+left: 690px; /*distância do lado esquerdo da página*/
+
+top: 140px;/*altura para o topo da página*/
+}

@@ -1,0 +1,108 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Site.master.vb" Inherits="sKPI.Site" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en">
+<head id="Head1" runat="server">
+    <meta charset="utf-8" />     
+    <title><%: Page.Title %> - My ASP.NET Application</title>
+    <link href="~/Content/Site.css" rel="stylesheet" /> 
+    <asp:PlaceHolder ID="PlaceHolder1" runat="server">        
+        <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        <script src="<%: ResolveUrl("~/Scripts/modernizr-2.5.3.js") %>"></script>
+    </asp:PlaceHolder>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
+
+   
+
+    <style type="text/css">
+        #Form1 {
+            width: 1858px;
+        }
+    </style>
+
+   
+
+</head>
+<body>
+    <form id="Form1" runat="server">
+    <asp:ScriptManager ID="ScriptManager1" runat="server">
+        <Scripts>
+            <asp:ScriptReference Name="jquery" />
+            <asp:ScriptReference Name="jquery.ui.combined" />
+        </Scripts>
+    </asp:ScriptManager>
+    <header>
+   <div id="mydiv" style="font-family: Arial Black; font-size: 24pt; width:100%;background:#31B404; height: 120px;">
+    <section class="featured" style="height: 106px; color: #7AC0DA; width: 1859px;">
+         <asp:Table ID="Table3" runat="server" Height="72px"  Width="1592px"> 
+             <asp:TableRow ID="TableRow27" runat="server" ForeColor="Teal">   
+                 <asp:TableCell> <a href="#"><img src="Imagens/glpi.jpg"  width="25%" id="Insert_logo" style="background:#7AC0DA; margin-left: 20px; margin-top: 5px;" /></a> </asp:TableCell>                 
+                  <asp:TableCell> 
+                      <div style="font-family: Arial Black; font-size: 14pt; height: 46px; margin-bottom: 19px;">
+            
+                <h1 style="height: 43px;">GLPI - ANÁLISES INTERNAS</h1>                
+           
+        </div>  
+                            
+       </asp:TableCell>                               
+               
+       </asp:TableRow>
+                   
+       </asp:Table>
+
+         
+
+    </section>
+    </div>
+      
+    </header>
+ <%--#698B69 = Cor Fundo Normal(Not Focus)--%>
+        <%--#CCFFCC = Cor verde Fundo(On Focus)--%>
+        <div class="blocoGrupoCampos"  style="border-bottom: 7px solid #FF0000; margin-top: 10px; height:39px; margin-bottom: 20px;
+            background-color: #0B0B61; border-left-width: 3px; border-right-width: 3px; border-top-width: 3px; width: 1859px;">
+            
+        </div>
+
+    <div id="body" >
+      <asp:ContentPlaceHolder runat="server" ID="FeaturedContent" />
+        
+      <asp:ContentPlaceHolder runat="server"  ID="MainContent" />
+       
+    </div>
+   
+    </form>
+   
+    </body>
+     
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+        <div class="content-wrapper">
+            <div STYLE="font-family: Humnst777 Cn BT; 
+font-size: 12px; color: blue" class="float-left">
+                <p>
+                  <b><%:DateTime.Now.Year%> - Desenvolvedor: Leonardo Metelys.</b>
+                </p>
+            </div>
+        </div>
+</html>
